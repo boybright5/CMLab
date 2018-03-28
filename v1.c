@@ -3,4 +3,5 @@
 main()
 {
     printf("Hi Nice and Bright");
+    printf("bye");
 }
