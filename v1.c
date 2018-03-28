@@ -2,5 +2,5 @@
 #include<conio.h>
 main()
 {
-    printf("Hi Nice");
+    printf("Hi Nice and Bright");
 }
